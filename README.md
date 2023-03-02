@@ -1,2 +1,2 @@
 # MavenHelloWorld
-Sample Maven hello world
+Sample Maven hello world new
